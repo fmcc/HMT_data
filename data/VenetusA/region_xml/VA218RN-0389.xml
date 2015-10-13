@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2015-10-13T16:59:46</Created>
+	<LastChange>2015-10-13T16:59:46</LastChange></Metadata>
+	<Page imageFilename="VA218RN-0389.jpg" imageWidth="5428" imageHeight="7230">
+	<Border>
+	<Coords points="445,394 714,405 1202,402 1811,402 2200,417 2720,420 3802,434 4228,428 4745,448 5002,465 4997,688 4977,1360 4965,1817 4957,2220 4965,2708 4957,3028 4920,4888 4928,5382 4928,5791 4908,6077 4902,6428 4902,6634 4894,6657 4894,6660 4854,6668 4648,6677 4280,6671 4094,6654 3525,6648 3157,6637 2600,6602 2077,6594 882,6594 480,6574 417,6571 428,3771 442,1337 440,380 445,400"/></Border>
+	<TextRegion id="r1" type="paragraph">
+	<Coords points="4302,734 4500,757 4477,877 4300,857 4274,831 4311,754 4308,734"/></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords points="1057,1442 2082,1428 3117,1411 3374,1474 3374,2225 3365,2882 3377,3102 3254,3454 3254,4077 3274,4351 3154,4377 3154,4488 3245,4505 3311,4585 3288,4734 2868,4908 2382,4948 1960,4917 931,4914 900,4885 937,3511 982,2100 1031,1834 1057,1454"/></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords points="671,1782 902,1725 1031,1788 1005,1925 854,2008 751,1988 665,1885 637,1802 680,1777"/></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords points="3397,2951 4320,2960 4331,3674 4408,4237 4334,4777 3951,4800 3377,4777 3374,4677 3348,4442 3334,3897 3328,3400 3377,3142 3388,2974 3388,2948"/></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords points="3151,4380 3325,4334 3334,4440 3334,4551 3262,4528 3237,4505 3151,4488 3157,4377"/></TextRegion></Page></PcGts>
