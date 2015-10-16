@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2015-10-14T08:54:44</Created>
+	<LastChange>2015-10-14T08:54:44</LastChange></Metadata>
+	<Page imageFilename="VA143RN-0315.jpg" imageWidth="5428" imageHeight="7230">
+	<Border>
+	<Coords points="320,391 362,391 1000,402 2222,448 2588,451 3482,471 4037,497 4768,534 4942,548 4934,740 4914,1237 4860,3020 4811,4591 4785,4845 4774,5965 4742,6542 4734,6722 4720,6745 4425,6751 3862,6722 3617,6734 2937,6697 2345,6660 1962,6657 1745,6654 1505,6642 860,6611 314,6580 214,6562 248,4700 254,3251 305,1665 325,405"/></Border>
+	<TextRegion id="r1" type="paragraph">
+	<Coords points="3985,694 3985,885 4262,885 4262,694"/></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords points="3271,2322 3271,2497 3651,2497 3651,2322"/></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords points="4222,3894 4222,4108 4457,4108 4457,3894"/></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords points="4260,4642 4260,4882 4480,4882 4480,4642"/></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords points="4317,5051 4317,5234 4754,5234 4754,5051"/></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords points="980,1485 2591,1540 2957,1571 3082,1765 3165,1914 3265,2094 3320,2228 3251,2305 3222,2482 3237,2682 3234,3285 3257,3477 3254,3617 3248,3674 3154,3734 3140,3845 3174,3960 3154,4068 3137,4177 3102,4414 3131,4525 3128,4600 3094,4797 3091,5011 3005,5128 2917,5162 2448,5162 1042,5048 828,5011 805,4988 762,4665 760,4517 814,3757 840,2920 800,2240 868,1611 965,1480"/></TextRegion>
+	<TextRegion id="r8" type="paragraph">
+	<Coords points="522,3491 522,3662 768,3662 768,3491"/></TextRegion>
+	<TextRegion id="r9" type="paragraph">
+	<Coords points="477,4817 688,4814 777,4905 797,4994 817,5028 920,5034 994,5088 985,5102 854,5094 768,5105 608,5131 488,5111 460,5031 465,4817"/></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="728,5160 814,5108 1071,5120 1611,5140 2042,5182 2494,5182 2845,5225 3034,5248 3188,5322 3148,5345 2765,5420 1665,5351 785,5262 714,5182"/></TextRegion>
+	<TextRegion id="r11" type="paragraph">
+	<Coords points="3131,5262 3108,5168 3120,4962 3140,4602 3168,4268 3165,4262 3211,3957 3208,3951 3194,3834 3194,3725 3245,3680 3257,3662 3268,3505 3254,3420 3260,3254 3282,3145 3742,3171 4128,3182 4151,3420 4171,3945 4171,4237 4140,4488 4174,4771 4174,4968 4102,5137 4071,5277 3991,5300 3291,5294 3137,5271"/></TextRegion></Page></PcGts>
