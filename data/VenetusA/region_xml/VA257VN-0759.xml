@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2015-10-20T09:35:50</Created>
+	<LastChange>2015-10-20T09:35:50</LastChange></Metadata>
+	<Page imageFilename="VA257VN-0759.jpg" imageWidth="5428" imageHeight="7230">
+	<Border>
+	<Coords points="611,628 625,640 951,622 1340,620 1948,631 2317,640 2951,620 3605,582 4857,582 5117,620 5102,1471 5117,2165 5100,3080 5117,3614 5117,5017 5114,5708 5105,6277 5117,6594 5037,6640 4680,6680 3922,6688 3011,6697 2105,6731 1905,6740 1654,6731 1245,6742 1034,6757 877,6751 674,6765 671,6420 662,6345 671,6065 660,5997 642,5294 628,4920 628,4420 622,3477 625,2682 602,1722 591,1002 602,757 602,640"/></Border>
+	<TextRegion id="r1" type="paragraph">
+	<Coords points="2521,1600 2521,5021 4600,5021 4600,1600"/></TextRegion></Page></PcGts>
