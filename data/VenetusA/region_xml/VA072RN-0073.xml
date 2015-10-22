@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2015-10-22T10:47:47</Created>
+	<LastChange>2015-10-22T10:47:47</LastChange></Metadata>
+	<Page imageFilename="VA072RN-0073.jpg" imageWidth="5428" imageHeight="7230">
+	<Border>
+	<Coords points="380,485 688,494 1460,508 1777,511 2317,517 2842,517 3388,528 3585,531 3942,577 4251,580 4597,582 4865,585 4868,802 4851,1034 4828,1205 4845,1480 4840,1802 4811,2125 4825,2200 4802,2482 4805,2997 4817,3517 4825,3942 4814,4465 4822,4860 4800,5177 4817,5565 4822,5874 4820,6082 4802,6334 4791,6585 4785,6671 4762,6765 4551,6757 4334,6742 4222,6740 3934,6748 3634,6742 3305,6731 2734,6702 2322,6685 1842,6691 1431,6705 1142,6697 617,6697 460,6691 428,5540 388,3888 371,2357 385,714 391,494"/></Border>
+	<TextRegion id="r1" type="paragraph">
+	<Coords points="4285,777 4285,905 4448,905 4448,777"/></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords points="994,1657 1314,1582 2917,1645 2928,1922 2891,2734 2917,3294 2934,3437 2954,4168 2951,4291 2782,4745 2662,4828 2622,4860 2034,4880 902,4848 900,3702 885,3091 897,2248 1000,1662"/></TextRegion></Page></PcGts>
